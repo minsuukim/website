@@ -1,5 +1,19 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+
+
+
+- title: Learning NP-Hard Multi-Agent Assignment Planning using GNN: Inference on a Random Graph and Provable Auction-Fitted Q-learning
+  authors:
+  - Hyunwook Kang
+  - Taehwan Kwon
+  - Jinkyoo Park
+  - James R Morrison
+  publisher: Advances in Neural Information Processing Systems
+  date: '2022-12-06'
+  link: https://proceedings.neurips.cc/paper_files/paper/2022/hash/66ad22a4a1d2e6fe6f6f6581fadeedbc-Abstract-Conference.html
+
+
 - id: doi:10.1101/2023.01.05.522941
   title: Hetnet connectivity search provides rapid insights into how two biomedical
     entities are related
@@ -22,6 +36,7 @@
   orcid: 0000-0002-4655-3773
   plugin: orcid.py
   file: orcid.yaml
+  
 - id: doi:10.1186/s13059-020-02021-3
   title: Compressing gene expression data using multiple latent space dimensionalities
     learns complementary biological representations
